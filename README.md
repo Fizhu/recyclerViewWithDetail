@@ -1,6 +1,9 @@
 # RecyclerView With Detail
 
-- ReacyclerVIew
+- RecyclerVIew
 - OnlickListerner Each Items
 - Showing Detail items
 - etc.
+
+
+Regards, Fizhu.
