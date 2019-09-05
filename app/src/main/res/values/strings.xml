@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">RecyclerView With Detail</string>
     <string name="nama_processor">Nama Processor</string>
-    <string name="nama_processor">Nama Processor</string>
     <string name="_1999">1999</string>
-    <string name="nama_processor">Nama Processor</string>
     <string name="tahun">Tahun</string>
+    <string name="speed">Speed</string>
+    <string name="clock_rate">Clock Rate</string>
+    <string name="detail" >Ini adalah detail dari item yang di pilih</string>
 </resources>

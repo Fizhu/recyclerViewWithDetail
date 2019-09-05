@@ -16,7 +16,7 @@ public class ProcessorIntelData {
             {"Pentium 4", "2000","Ini processor intel yang memiliki nama Pentium 4", "1.3 GHz to 3.8 GHz","400 MT/s to 1066 MT/s","https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Intel_Pentium_4_1%2C5_GHz_Willamette_Socket_423.jpg/220px-Intel_Pentium_4_1%2C5_GHz_Willamette_Socket_423.jpg" },
             {"Pentium D", "2005","Ini processor intel yang memiliki nama Pentium D", "2.66 GHz to 3.73 GHz","533 MT/s to 1,066 MT/s","https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentium_d_820.jpg/180px-Pentium_d_820.jpg" },
             {"Intel Core 2", "2006","Ini processor intel yang memiliki nama Intel Core 2", "1.06 GHz to 3.33 GHz","800 MT/s to 1600 MT/s","https://upload.wikimedia.org/wikipedia/commons/6/64/IntelCore2DuoE6600.jpg" },
-            {"Intel Pentium Dual Core", "Ini processor intel yang memiliki nama Intel Pentium Dual Core","1.3 GHz to 3.4 GHz","533 MHz to 800 MHz","2006", "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pentium_Dual_Core_E2160.JPG/800px-Pentium_Dual_Core_E2160.JPG" }
+            {"Intel Pentium Dual Core", "2006" ,"Ini processor intel yang memiliki nama Intel Pentium Dual Core","1.3 GHz to 3.4 GHz","533 MHz to 800 MHz", "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pentium_Dual_Core_E2160.JPG/800px-Pentium_Dual_Core_E2160.JPG" }
     };
 
     public static ArrayList<ProcessorIntel> getListData(){
