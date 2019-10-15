@@ -30,7 +30,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void showRv() {
         rvPro.setLayoutManager(new LinearLayoutManager(this));
-        ListProAdapter listProAdapter = new ListProAdapter(list);
+        ListProAdapter listProAdapter = new ListProAdapter(this);
+        listProAdapter.setListPro(list);
         rvPro.setAdapter(listProAdapter);
     }
 }

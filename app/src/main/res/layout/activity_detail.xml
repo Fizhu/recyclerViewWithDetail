@@ -14,6 +14,7 @@
         android:orientation="horizontal">
 
         <ImageView
+            android:id="@+id/foto"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:src="@android:color/darker_gray"
@@ -24,6 +25,7 @@
             android:layout_gravity="center"
             android:orientation="vertical">
             <TextView
+                android:id="@+id/tv_nama"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/nama_processor"
@@ -32,6 +34,7 @@
                 android:textColor="@android:color/black"
                 android:layout_marginBottom="@dimen/activity_horizontal_margin"/>
             <TextView
+                android:id="@+id/tv_tahunPro"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/tahun"/>
