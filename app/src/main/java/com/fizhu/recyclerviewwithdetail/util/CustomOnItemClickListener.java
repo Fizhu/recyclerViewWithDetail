@@ -2,6 +2,9 @@ package com.fizhu.recyclerviewwithdetail.util;
 
 import android.view.View;
 
+
+//TODO 1 COPAS AJA INI SEMUA GA PERLU DIJELASIN
+// INI CLASS BUAT ITEM CLICK LISTENER DI RECYCLERVIEW
 public class CustomOnItemClickListener implements View.OnClickListener {
 
     public static Object OnItemClickCallback;

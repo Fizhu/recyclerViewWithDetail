@@ -6,6 +6,9 @@ import android.os.Parcelable;
 /**
  * Created by fizhu on 27,August,2019
  */
+
+
+//TODO 1 INI KELAS POJO YANG UDAH DI IMPLEMENTASIKAN PARCELABLE
 public class ProcessorIntel implements Parcelable {
     private String namaPro, tahun, foto, clock, speed, detail;
 

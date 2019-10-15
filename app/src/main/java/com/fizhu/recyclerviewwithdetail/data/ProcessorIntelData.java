@@ -7,6 +7,9 @@ import java.util.ArrayList;
 /**
  * Created by fizhu on 27,August,2019
  */
+
+//TODO 1 INI KELAS YANG BERISI DATA YANG AKAN DI TAMPUNG DENGAN POJO DAN DITAMPILKAN PADA RECYCLERVIEW
+// LU GA PAKE INI CLASS KARNA NTAR DATA LU DARI API
 public class ProcessorIntelData {
 
     public static String [] [] data = new String[][]{

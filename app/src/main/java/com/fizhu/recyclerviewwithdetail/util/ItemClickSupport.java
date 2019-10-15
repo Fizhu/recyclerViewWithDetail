@@ -6,6 +6,8 @@ import android.view.View;
 
 import com.fizhu.recyclerviewwithdetail.R;
 
+//TODO 1 COPAS AJA INI SEMUA GA PERLU DIJELASIN
+// INI CLASS BUAT ITEM CLICK LISTENER DI RECYCLERVIEW
 public class ItemClickSupport {
     private final RecyclerView mRecyclerView;
     private OnItemClickListener mOnItemClickListener;
